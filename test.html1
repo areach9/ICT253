@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>img</title>
+</head>flow chart
+
+<body>
+<h1>Data collection→ analysis of qualitative data→ analysis procedures→ resulting in qualitative research reports.</h1>
+<img src="liucheng.png"="" class="profile">
+	<p>After the questionnaire is collected and reviewed, it should be sorted and analyzed, and now the questionnaire data is mostly coded and quantified, and computer software is used for analysis</p>
+</body>
+</html>
