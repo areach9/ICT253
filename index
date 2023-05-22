@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="ICT452Project-portfolio/css/layout.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Storyboard And Flow Chart</title>
+</head>
+<body>
+
+    <div class="header">
+      <h1><strong>Storyboard And Flow Chart</strong></h1>
+    </div>
+    
+    <nav>
+        <ul>
+            <li><a href="ICT452Project-portfolio/index.html" >Self Introduction</a></li>
+            <li><a href="ICT452Project-portfolio/gallery.html">Gallery</a></li>
+            <li><a href="ICT452Project-portfolio/boardAndChart.html">Storyboard and Flow Chart</a></li>
+        </ul>
+    </nav>
+
+    <div class="leftcolumn">
+        <div class="card">
+            <h2>Storyboard</h2>
+            <div class="fakeimg" style="height:100%;" align="center"><img src="file:///C|/Users/13096/Documents/未命名站点 2/dw/picture1/2023-05-19.jpg.jpg" width="800" height="480" alt=""/></div>
+        </div>
+        <div class="card">
+            <h2>Flow Chart</h2>
+            <div class="fakeimg" style="height:100%;" align="center"><img src="../Documents/未命名站点 2/dw/picture1/liuchengtu.jpg" width="700" height="1000" alt=""/></div>
+        </div>
+        <div class="card">
+            <h2>Flow Chart2</h2>
+            <div class="fakeimg" style="height:100%;" align="center"><img src="../Documents/未命名站点 2/dw/picture1/liuchengtu2.jpg" width="700" height="1000" alt=""/></div>
+        </div>
+
+    </div>
+    
+    <div class="rightcolumn">
+        <div class="card"><p style="font-size: 32px;">
+            Proficient in business design, able to do sound structural design and development, convey your meaning in the clearest possible way, and focus on expanding accessibility.&nbsp;</p>
+        </div>
+    </div>
+    
+    <div class="row">
+
+    </div>
+    
+    <div class="footer">
+        <h2>©2023Mick. All Rights Reserved.Contact with me：1309694709@qq.com</h2>
+    </div>
+    
+    </body>
+    </html>
